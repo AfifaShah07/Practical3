@@ -1,2 +1,42 @@
-# Practical3
+<!DOCTYPE>
+<html>
+    <head>
+        <style type="text/css">
+            body
+            {
+             background-image:url(demo.jpg);
+             background-size: 200px;
+             background-repeat: repeat;
+            }
+            h1
+            {
+                color: brown;
+                text-align: center;
+                size: 700px;
+            }
+            p
+            {
+                font-family: cursive;
+                font-size: large;
+            }
+            #para1
+            {
+                font-family: 'Courier New', Courier, monospace;
+                font-style: italic;
+                font-weight: bolder;
+            }
+            <h1 class=c1>hello</h1>
+        </style>
+    </head>
+    <body>
+        <h1>My Css Page</h1>
+        <p>hello user,
+            this is my first css web page
+        </p>
+        <p id="para1">welcome!</p>
+        
+        .c1{cursor: crosshair;}
+        
+    </body>
+</html# Practical3
 This is my third practical of web technology.
